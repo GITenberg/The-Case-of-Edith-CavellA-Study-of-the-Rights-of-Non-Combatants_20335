@@ -14,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/James_M._Beck
 description: Cover; Front matter; Title page; Copyright page; Body matter; Account
   of the Case;
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20335#The-Case-of-Edith-CavellA-Study-of-the-Rights-of-Non-Combatants
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2007-01-11'
 gutenberg_type: Text
